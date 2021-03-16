@@ -1,1 +1,1 @@
-Hello! This is my Git-it attempt.
+Hello! This is my Git-it attempt. Now, I've added a bit more.
